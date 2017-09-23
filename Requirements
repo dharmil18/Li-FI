@@ -1,0 +1,14 @@
+Hardware Requirements:
+1. SST89E516RD(8051)
+2. 8051 Development Board
+3. LDR Module
+4. LED
+5. 4x4 Keypad
+6. 16x2 LCD
+7. Potential Meter (10k)
+8. RS232 to USB Connector
+
+Software Requirements:
+1. Keil MicroVision 4
+2. Proteus 8 Professional
+3. Flash Magic
